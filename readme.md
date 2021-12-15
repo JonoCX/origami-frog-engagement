@@ -10,6 +10,8 @@ libraries (use either venv with requirements.txt or conda with environment.yml).
 to perform the original analysis.**
 
 ## Reference
-If you use the work, please cite us by using the Zendo link!
+If you use the work, please cite us by using Zenodo:
+
+> Jonathan Carlton, Andy Brown, Caroline Jay, & John Keane. (2021). Code and Data - User Engagement with Make-Along: Origami Frog (v1.0). Zenodo. https://doi.org/10.5281/zenodo.5783522
 
 > Paper due at some point soon.
